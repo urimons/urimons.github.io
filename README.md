@@ -1,4 +1,3 @@
-# Welcome To My Git!
 
 I'm a PhD in Neuroscience in Ofer Yizhar's lab, studying the "Mechanisms Linking Stress, Anxiety and Compulsive Behavior".
   ---
