@@ -1,5 +1,5 @@
 
-My name is Uri Monsonego, I'm a PhD in Neuroscience in Ofer Yizhar's lab. I study the "Mechanisms Linking Stress, Anxiety and Compulsive Behavior", and it is really hard for me to describe how much I hate programming. 
+My name is Uri Monsonego. I'm a PhD student in Neuroscience at the Weizmann Institute of Science, working in Ofer Yizhar's lab. I study the "Mechanisms Linking Stress, Anxiety and Compulsive Behavior", and it is extremely hard for me to describe how much I hate programming. 
 
 ------
 
