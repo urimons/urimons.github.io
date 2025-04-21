@@ -8,8 +8,9 @@ The core idea? When mammals (including us) get anxious, the brain pulls out a tr
 To explore this, I work with mice (they're cuter than you'd think), lasers (they're cooler than you'd think), and complex behavioral paradigms (they're... fine). I’m using optogenetics and other fancy tools to map how stress hijacks certain brain circuits and turns helpful behaviors into maladaptive loops.
 
 In short: I stress out mice so you don’t have to.
+
 ------
-Ah, and I really don't like programming, like at all.
+Ah, and I really don't like programming. Like, at all.
 
 * Here are my Facebook and Twitter accounts in case you want to get to know me a bit better :) 
 * [My Facebook Page](https://www.facebook.com/uri.monsonego)
